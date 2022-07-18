@@ -4,7 +4,6 @@ import Note from "./Note.jsx";
 import Footer from "./Footer.jsx";
 import notes from "../notes.js";
 
-console.log(notes)
 function App() {
 	return (
 		<div>
